@@ -1,0 +1,11 @@
+S.no.,Classes,Transforms
+1,Angioectasia,normalization + CLAHE + Sharpening
+2,Bleeding,Normalization + Sharpening
+3,Erosion,Erosion + CLAHE
+4,Erythema,Normalization + CLAHE
+5,Foreign Body,Sharpening
+6,Lymphangiectasia,CLAHE + Sharpening
+7,Normal,~
+8,Polyp,Normalization + CLAHE + Sharpening
+9,Ulcer,Normalization + CLAHE + Sharpening
+10,Worms,Normalization + CLAHE
