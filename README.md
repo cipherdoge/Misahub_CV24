@@ -1,5 +1,5 @@
 # Misahub_CV24
-**Submission for Computer Vision Challenge 24 by Team DS & Chill where we finished 10th, with a combined metric of 0.505.**
+**Submission for Computer Vision Challenge 24 by Team DS & Chill, where we finished 10th, with a combined metric of 0.505.**
 
 ## Overview
 This repository contains the necessary notebooks for training both the DenseNet and YOLO models, as well as a notebook for ensemble predictions. Additionally, it includes a CSV file listing the augmentations applied to each class in `aug_list`, along with a report explaining our approach.
